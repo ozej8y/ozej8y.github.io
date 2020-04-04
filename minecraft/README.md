@@ -56,7 +56,7 @@ On your iPad, open Settings and go to
 - if you have 'Allowed Websites Only', scroll down to "Add Website"
 - Add the website "xbox.com"
 - Add the website "microsoft.com"
-- Add the website "login.live.com"
+- Add the website "live.com"
 
 ### Setting up Minecraft
 
@@ -93,5 +93,25 @@ If not, please Google: "microsoft family sharing"
 - Under the childs name, select 'More Options', 'Content Restrictions'
 - under 'Apps, Games and Media', set 'Allow apps and games rated for' to '12-year-olds'
 
+### Allow Multiplayer Games
 
-This should then allow your child to connect to a server in Minecraft.
+This step is required to allow Multiplayer games.
+- Go to https://xbox.com and login using the adult Microsoft account.
+- click on the '...'
+![options](more_options.png "options")
+- click on 'Xbox Settings'
+- click on 'Privacy & online safety'
+- select the child player by their gamertag.
+- click on 'Xbox One/Windows 10 Online Safety'
+- scroll down to 'You can join multiplayer games'
+- click 'Allow'
+- click on the 'Submit' button
+
+
+Back on the child's ipad, open Minecraft.
+- go to Settings
+- click on Profile
+- click on 'Sign out of your Microsoft Account'
+- then sign back in.
+
+This will refresh the settings, you should now be able to connect to your Minecraft server.
